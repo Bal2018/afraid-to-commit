@@ -12,3 +12,5 @@ Dutch Django Association Sprint in Amsterdam, 7th March 2015
 PyCon UK in Coventry, 20th September 2014vc
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+
+Anyone therer ???
