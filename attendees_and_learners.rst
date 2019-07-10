@@ -11,13 +11,12 @@ This is a record of people who attended a *Don't be afraid to commit* workshop,
 or followed the tutorial in their own time.
 
 Works
-dfdhjdh\dgjdfh\
 ddfj
 
 =========Hello
 
 
-Pycon Zimbabwe in Harare, 24th November 2016
+Pycon Zimbabwe in Har
 ---------------------------------------------
 * Bornwell Matembudze https://github.com/bornie21
 * Kudakwashe Siziva
