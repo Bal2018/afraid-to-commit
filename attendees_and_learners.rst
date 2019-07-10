@@ -1,12 +1,11 @@
 ####################
  
+ Again ... and again
 This is a record of people who attended a *Don't be af mit* workshop,
 or followed the tutorial in their own time.
 
 Workshops
 ========= 
-
-
 
 
 Dutch Django Association Sprint in Amsterdam, 7th March 2015
