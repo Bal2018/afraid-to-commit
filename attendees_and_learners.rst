@@ -1,5 +1,4 @@
 ####################
-Attendees & learners --n HELLOOOOO
 ####################
 Just an alteration......
 This is a record of people who attended a *Don't be afraid to commit* workshop,
